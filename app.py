@@ -146,7 +146,7 @@ hero_img = load_image("Gemini_Generated_Image_7n2xf17n2xf17n2x.png")
 if hero_img:
     st.image(hero_img, use_container_width=True)
 
-st.markdown('<div class="center-text"><a href="#offer-section" class="cta-button">YA! SAYA MAU KUNCI REZEKI BERKAH!</a></div>', unsafe_allow_html=True)
+st.markdown('<div class="center-text"><a href="https://wa.me/6282293274916?text=Halo%20Admin,%20saya%20mau%20pesan%20E-book%20Kunci%20Sulaiman%20Berkah%20dengan%20harga%20promo%20Rp99.000." target="_blank" class="cta-button">YA! SAYA MAU KUNCI REZEKI BERKAH!</a></div>', unsafe_allow_html=True)
 
 # --- SECTION 2: PROBLEM / AGITATION ---
 st.markdown('<div class="section-box">', unsafe_allow_html=True)
@@ -273,5 +273,5 @@ st.success('💎 **Garansi 30 Hari Uang Kembali 100% Tanpa Ribet!** Kami sangat 
 st.markdown('<div class="center-text" style="margin-top: 40px; margin-bottom: 60px;">', unsafe_allow_html=True)
 st.markdown('<h3>🚀 Ambil Tindakan Sekarang & Buka Pintu Rezeki Berkah Anda!</h3>', unsafe_allow_html=True)
 st.markdown('<p style="font-size: 1.1rem; margin-bottom: 20px;">Ribuan orang telah merasakan manfaatnya, sekarang giliran Anda!</p>', unsafe_allow_html=True)
-st.markdown('<a href="#offer-section" class="cta-button">YA! SAYA MAU KUNCI REZEKI BERKAH!</a>', unsafe_allow_html=True)
+st.markdown('<a href="https://wa.me/6282293274916?text=Halo%20Admin,%20saya%20mau%20pesan%20E-book%20Kunci%20Sulaiman%20Berkah%20dengan%20harga%20promo%20Rp99.000." target="_blank" class="cta-button">YA! SAYA MAU KUNCI REZEKI BERKAH!</a>', unsafe_allow_html=True)
 st.markdown('</div>', unsafe_allow_html=True)
