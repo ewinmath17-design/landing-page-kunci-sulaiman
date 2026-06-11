@@ -1,6 +1,3 @@
-import os
-
-streamlit_code = """
 import streamlit as st
 from PIL import Image
 import os
@@ -278,9 +275,3 @@ st.markdown('<h3>🚀 Ambil Tindakan Sekarang & Buka Pintu Rezeki Berkah Anda!</
 st.markdown('<p style="font-size: 1.1rem; margin-bottom: 20px;">Ribuan orang telah merasakan manfaatnya, sekarang giliran Anda!</p>', unsafe_allow_html=True)
 st.markdown('<a href="#offer-section" class="cta-button">YA! SAYA MAU KUNCI REZEKI BERKAH!</a>', unsafe_allow_html=True)
 st.markdown('</div>', unsafe_allow_html=True)
-"""
-
-with open("Kunci_Sulaiman_Berkah_Landing_Page.py", "w", encoding="utf-8") as f:
-    f.write(streamlit_code)
-
-print("File Python generated successfully.")
